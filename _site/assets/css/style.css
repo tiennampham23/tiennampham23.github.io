@@ -361,7 +361,7 @@ main .about h2 { font-size: 22px; margin-top: 25px; margin-bottom: 0; color: #22
 
 main .about .tagline { font-size: 22px; margin-top: 17px; color: #aaa; white-space: pre-wrap; line-height: normal; }
 
-main .about img { max-width: 150px; }
+main .about img { width: 150px; height: 150px; border-radius: 50%; }
 
 #title a { text-decoration: none; }
 
