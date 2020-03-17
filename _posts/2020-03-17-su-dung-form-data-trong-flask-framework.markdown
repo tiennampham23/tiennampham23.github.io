@@ -80,6 +80,8 @@ Ummmm, thế mình cùng là thêm 1 demo nhỏ nhỏ nữa, viết 1 API có th
 
 
 ![alt text](https://i.imgur.com/4YunD8e.png)
+
+
 Tiếp theo, khởi tạo một instance mysql để thực hiên truy vấn:
 - Import MySql từ flask_mysqldb
 - Init instance mysql từ constructor `MySQL(app)`
